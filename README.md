@@ -51,24 +51,6 @@
 
 <br>
 
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Zruzrg&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zruzrg&theme=tokyo-night&hide_border=true&height=300" alt="Contribution Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <h2>💬 Get In Touch</h2>
-  <p>Feel free to explore my repositories and contribute!</p>
-</div>
 
 <br>
 
