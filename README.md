@@ -1,6 +1,6 @@
 <div align="center">
   <img src="images/tux.png" alt="Tux" width="120" height="120">
-  <h1>Hi, I'm Zruzrg 👋</h1>
+ <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Zruzrg</h1>
   <p align="center">
     Passionate about open-source and technology
   </p>
