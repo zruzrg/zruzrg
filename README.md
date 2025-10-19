@@ -1,14 +1,32 @@
-# Hi, I'm zruzrg 👋
+<div align="center">
+  <img src="images/tux.png" alt="Tux" width="100" height="100">
+  <h1>Hi, I'm Zruzrg 👋</h1>
+</div>
 
-## 🛠️ What I Use:
-![AI Technologies](https://img.shields.io/badge/-AI_Technologies-000?style=for-the-badge&logo=ai&logoColor=white)
+<p align="center">
+  Welcome to my GitHub profile! Here's an overview of the tools I use in my development workflow.
+</p>
 
-## 📊 GitHub Stats:
-![zruzrg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zruzrg&show_icons=true&theme=radical)
+<br>
 
-### 📂 Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zruzrg&layout=compact&theme=radical)
+<h2>🛠️ Tools & Technologies</h2>
 
----
+<p>My development environment consists of the following tools:</p>
 
-If you enjoy my projects, don't forget to leave a ⭐!
+<div align="center">
+
+| Tool | Purpose |
+|------|---------|
+| **Linux** | My operating system of choice for development |
+| **Docker** | For containerization and deployment |
+| **Qwen** | AI assistant for development and research |
+| **Alacritty** | My preferred terminal emulator |
+| **Code - OSS** | Open source version of Visual Studio Code |
+
+</div>
+
+<br>
+
+<p align="center">
+  <i>Exploring technology, one commit at a time 🚀</i>
+</p>
