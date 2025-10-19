@@ -16,7 +16,6 @@
 
 <div align="center">
   <h2>🛠️ Tools</h2>
-  <p>My development environment consists of these essential tools:</p>
   
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
