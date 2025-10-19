@@ -37,11 +37,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zruzrg&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zruzrg&theme=tokyonight&hide_border=true" width="600" alt="GitHub Streak" />
-</div>
-
-<br>
 
