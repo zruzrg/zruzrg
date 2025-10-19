@@ -45,17 +45,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zruzrg&theme=tokyo-night&hide_border=true" width="800" alt="Activity Graph" />
-</div>
-
-<br>
-
-
-<br>
-
-<div align="center">
-  <p>
-    <i>Exploring technology, one commit at a time 🚀</i>
-  </p>
-</div>
