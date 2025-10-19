@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Qwen-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="Qwen" />
     <img src="https://img.shields.io/badge/Alacritty-2D3142?style=for-the-badge&logo=alacritty&logoColor=F2F2F2" alt="Alacritty" />
-    <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Code-OSS" />
   </div>
 </div>
 
