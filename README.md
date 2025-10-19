@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <h2>🛠️ Tools & Technologies</h2>
+  <h2>🛠️ Tools</h2>
   <p>My development environment consists of these essential tools:</p>
   
   <div>
